@@ -6,4 +6,6 @@
 
 **Run:**
 
-> python ./goog-mail.py <domain-name>
+```python
+python ./goog-mail.py <domain-name>
+```
